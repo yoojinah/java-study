@@ -7,7 +7,7 @@ public class Main {
 
         srv1.start();   // 스레드 시작
         srv2.start();
-        
+
 
     }
 }
